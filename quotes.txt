@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Well, that's a new quote
+So I'll need to update the number of lines
+And... That's done !
